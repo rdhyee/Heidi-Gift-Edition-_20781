@@ -40,7 +40,7 @@ deploy:
     - book.mobi
     - book.pdf
   "on":
-    repo: rdhyee/Heidi-Gift-Edition_20781
+    repo: rdhyee/Heidi-Gift-Edition-_20781
 addons:
   apt:
     packages:
